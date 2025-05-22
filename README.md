@@ -1,2 +1,2 @@
 # Pocky
-Instalador de superpaquetes para CuerdOS.
+Instalador de escritorios/WM para CuerdOS.
