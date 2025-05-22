@@ -1,2 +1,2 @@
 # Pocky
-Reservado
+Instalador de superpaquetes para CuerdOS.
